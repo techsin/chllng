@@ -1,0 +1,16 @@
+=== Test create, fetch, update ===
+{"name":"alex","url":"http://alex.com"}
+{"name":"alex","url":"http://alex.org"}
+HTTP status code: 404
+
+=== Test simple annotation ===
+
+=== Test annotation of multiple names ===
+
+=== Test HTML correctness ===
+
+=== Test additional annotations ===
+
+=== Test annotation of complex example ===
+
+=== Tricky case ===
